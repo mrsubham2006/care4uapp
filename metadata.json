@@ -1,0 +1,6 @@
+{
+  "name": "CareNexus",
+  "description": "Smart Hospital Patient App for seamless appointment booking, live digital queue tokens, verified medical records, lab reports with AI explanations, e-prescriptions, pharmacy pickup, bills & payments, emergency care, and CareAI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
